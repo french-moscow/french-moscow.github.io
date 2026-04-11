@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://french-moscow.github.io/sitemap.xml
